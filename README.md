@@ -14,7 +14,8 @@ A Python script to generate wordlists from Wikipedia static HTML dumps. This too
 
 ## Installation
 
-This script requires no external dependencies beyond Python's standard library.
+This script requires no external dependencies beyond Python's standard library. Simply download and run python3 Wikipedia-Wordlist-Generator.py inside the directory or with full path.
+
 
 ### Clone the repository:
 
@@ -22,4 +23,7 @@ This script requires no external dependencies beyond Python's standard library.
 git clone https://github.com/yourusername/wikiwordlists.git
 cd wikiwordlists
 
+python3 Wikipedia-Wordlist-Generator.py
+or 
+python3 Wikipedia-Wordlist-Generator.py
 
